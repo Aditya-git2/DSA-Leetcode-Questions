@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
