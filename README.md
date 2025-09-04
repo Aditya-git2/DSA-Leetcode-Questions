@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/Aditya-git2/DSA/tree/master/0319-bulb-switcher) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Dynamic Programming
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-git2/DSA/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Aditya-git2/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
