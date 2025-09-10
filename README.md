@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Aditya-git2/DSA/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Aditya-git2/DSA/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Aditya-git2/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Aditya-git2/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Dynamic Programming
 |  |
