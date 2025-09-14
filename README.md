@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-git2/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aditya-git2/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya-git2/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Aditya-git2/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-git2/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Brainteaser
 |  |
