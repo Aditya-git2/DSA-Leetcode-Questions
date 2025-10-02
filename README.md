@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Aditya-git2/DSA/tree/master/1642-water-bottles) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Aditya-git2/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3336-water-bottles-ii](https://github.com/Aditya-git2/DSA/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/Aditya-git2/DSA/tree/master/1642-water-bottles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3336-water-bottles-ii](https://github.com/Aditya-git2/DSA/tree/master/3336-water-bottles-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
