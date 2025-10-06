@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aditya-git2/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aditya-git2/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Aditya-git2/DSA/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/Aditya-git2/DSA/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya-git2/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Aditya-git2/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
