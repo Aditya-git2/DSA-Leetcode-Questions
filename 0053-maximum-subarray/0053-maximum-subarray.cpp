@@ -4,11 +4,11 @@ public:
         int currSum = 0;
         int maxSum = INT_MIN;
 
-        for (int x : nums) {   // Travel all elements in nums
+        for (int x : nums) { // Travel all elements in nums
             currSum += x;
-// Why this condition not here? => to tackle edge case where all elements are -ve
-            // if (currSum < 0)
-            //     currSum = 0;
+            // Why this condition not here?
+            // if (currSum < 0)  currSum = 0;
+            // to tackle edge case where all elements are -ve
             maxSum = max(currSum, maxSum);
             if (currSum < 0)
                 currSum = 0;
