@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0724-find-pivot-index](https://github.com/Aditya-git2/DSA/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0898-transpose-matrix](https://github.com/Aditya-git2/DSA/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya-git2/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Aditya-git2/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-git2/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Aditya-git2/DSA/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Aditya-git2/DSA/tree/master/1642-water-bottles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3336-water-bottles-ii](https://github.com/Aditya-git2/DSA/tree/master/3336-water-bottles-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0898-transpose-matrix](https://github.com/Aditya-git2/DSA/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
