@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-git2/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aditya-git2/DSA/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Aditya-git2/DSA/tree/master/0319-bulb-switcher) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aditya-git2/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aditya-git2/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-git2/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aditya-git2/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/0088-merge-sorted-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-git2/DSA/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0898-transpose-matrix](https://github.com/Aditya-git2/DSA/tree/master/0898-transpose-matrix) |
 ## Two Pointers
