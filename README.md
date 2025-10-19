@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1646-kth-missing-positive-number](https://github.com/Aditya-git2/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya-git2/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aditya-git2/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Aditya-git2/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0724-find-pivot-index](https://github.com/Aditya-git2/DSA/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aditya-git2/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya-git2/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
