@@ -9,8 +9,8 @@ public:
             }
             if(nums[i]==0) continue;
             if( st.empty() || st.top()<nums[i]){
-                op++;
                 st.push(nums[i]);
+                op++;
             }
         }
         return op;
