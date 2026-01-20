@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Using Extra space
+    // Using frequency space
     int findDuplicate(vector<int>& nums) {
         int n = nums.size();
         vector<int> check(n + 1, 0); // if n=5 => 0,0,0,0,0
