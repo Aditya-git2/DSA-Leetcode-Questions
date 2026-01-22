@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Aditya-git2/DSA/tree/master/2235-add-two-integers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-water-bottles-ii](https://github.com/Aditya-git2/DSA/tree/master/3336-water-bottles-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-git2/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aditya-git2/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-git2/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
