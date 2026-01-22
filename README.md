@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-git2/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Aditya-git2/DSA/tree/master/0901-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Aditya-git2/DSA/tree/master/0901-online-stock-span) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Aditya-git2/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Aditya-git2/DSA/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Aditya-git2/DSA/tree/master/0796-rotate-string) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aditya-git2/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
