@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-git2/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aditya-git2/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-git2/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aditya-git2/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-git2/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Aditya-git2/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aditya-git2/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-reducing-dishes](https://github.com/Aditya-git2/DSA/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aditya-git2/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Brainteaser
 |  |
@@ -286,12 +288,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditya-git2/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aditya-git2/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-git2/DSA/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
 | [1402-reducing-dishes](https://github.com/Aditya-git2/DSA/tree/master/1402-reducing-dishes) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aditya-git2/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aditya-git2/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
