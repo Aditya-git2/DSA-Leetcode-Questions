@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Aditya-git2/DSA/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Aditya-git2/DSA/tree/master/0898-transpose-matrix) |
+| [0962-maximum-width-ramp](https://github.com/Aditya-git2/DSA/tree/master/0962-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1138-grumpy-bookstore-owner](https://github.com/Aditya-git2/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya-git2/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aditya-git2/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Aditya-git2/DSA/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Aditya-git2/DSA/tree/master/0962-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aditya-git2/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-git2/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
+| [0962-maximum-width-ramp](https://github.com/Aditya-git2/DSA/tree/master/0962-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Aditya-git2/DSA/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Aditya-git2/DSA/tree/master/0962-maximum-width-ramp) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
