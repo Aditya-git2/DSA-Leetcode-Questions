@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aditya-git2/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-git2/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Aditya-git2/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/Aditya-git2/DSA/tree/master/1929-concatenation-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aditya-git2/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aditya-git2/DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Aditya-git2/DSA/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Aditya-git2/DSA/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Aditya-git2/DSA/tree/master/1929-concatenation-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3336-water-bottles-ii](https://github.com/Aditya-git2/DSA/tree/master/3336-water-bottles-ii) |
 ## Divide and Conquer
