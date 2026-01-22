@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aditya-git2/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-git2/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-git2/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditya-git2/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aditya-git2/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-git2/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditya-git2/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 |  |
