@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aditya-git2/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aditya-git2/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Aditya-git2/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0724-find-pivot-index](https://github.com/Aditya-git2/DSA/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aditya-git2/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Aditya-git2/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Aditya-git2/DSA/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-git2/DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Breadth-First Search
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Aditya-git2/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Trie
 |  |
 | ------- |
