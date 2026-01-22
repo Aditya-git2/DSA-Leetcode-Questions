@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-git2/DSA/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Aditya-git2/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-git2/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditya-git2/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Aditya-git2/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aditya-git2/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya-git2/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
