@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-git2/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Aditya-git2/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aditya-git2/DSA/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Aditya-git2/DSA/tree/master/0319-bulb-switcher) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aditya-git2/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Aditya-git2/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Aditya-git2/DSA/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Aditya-git2/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aditya-git2/DSA/tree/master/0052-n-queens-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aditya-git2/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
