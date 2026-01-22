@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Aditya-git2/DSA/tree/master/0792-binary-search) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Aditya-git2/DSA/tree/master/1646-kth-missing-positive-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Aditya-git2/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Aditya-git2/DSA/tree/master/1929-concatenation-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aditya-git2/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Aditya-git2/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Aditya-git2/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aditya-git2/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Aditya-git2/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aditya-git2/DSA/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-git2/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-git2/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Aditya-git2/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Aditya-git2/DSA/tree/master/1402-reducing-dishes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aditya-git2/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aditya-git2/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Aditya-git2/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
