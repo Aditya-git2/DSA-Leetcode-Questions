@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Aditya-git2/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Aditya-git2/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-git2/DSA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Aditya-git2/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aditya-git2/DSA/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aditya-git2/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Aditya-git2/DSA/tree/master/0792-binary-search) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aditya-git2/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1138-grumpy-bookstore-owner](https://github.com/Aditya-git2/DSA/tree/master/1138-grumpy-bookstore-owner) |
 ## Backtracking
 |  |
