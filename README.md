@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Aditya-git2/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Aditya-git2/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1402-reducing-dishes](https://github.com/Aditya-git2/DSA/tree/master/1402-reducing-dishes) |
+| [1470-shuffle-the-array](https://github.com/Aditya-git2/DSA/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-git2/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aditya-git2/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-git2/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
