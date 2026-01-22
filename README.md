@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-git2/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditya-git2/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Aditya-git2/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
