@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Aditya-git2/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Aditya-git2/DSA/tree/master/1642-water-bottles) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Aditya-git2/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2235-add-two-integers](https://github.com/Aditya-git2/DSA/tree/master/2235-add-two-integers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Aditya-git2/DSA/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3336-water-bottles-ii](https://github.com/Aditya-git2/DSA/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
