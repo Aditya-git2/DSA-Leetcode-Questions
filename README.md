@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-git2/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aditya-git2/DSA/tree/master/0389-find-the-difference) |
+| [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya-git2/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Aditya-git2/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aditya-git2/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-git2/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya-git2/DSA/tree/master/0389-find-the-difference) |
+| [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
@@ -263,11 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Aditya-git2/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-git2/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-git2/DSA/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Aditya-git2/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aditya-git2/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
