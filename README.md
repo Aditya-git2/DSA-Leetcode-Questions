@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-git2/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya-git2/DSA/tree/master/0389-find-the-difference) |
 | [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
+| [0796-rotate-string](https://github.com/Aditya-git2/DSA/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Aditya-git2/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
