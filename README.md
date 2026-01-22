@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Aditya-git2/DSA/tree/master/0792-binary-search) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Aditya-git2/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Binary Tree
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/Aditya-git2/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1402-reducing-dishes](https://github.com/Aditya-git2/DSA/tree/master/1402-reducing-dishes) |
 | [1470-shuffle-the-array](https://github.com/Aditya-git2/DSA/tree/master/1470-shuffle-the-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-git2/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aditya-git2/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-git2/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aditya-git2/DSA/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-reducing-dishes](https://github.com/Aditya-git2/DSA/tree/master/1402-reducing-dishes) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aditya-git2/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 ## Brainteaser
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Aditya-git2/DSA/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/Aditya-git2/DSA/tree/master/0962-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aditya-git2/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
 |  |
 | ------- |
