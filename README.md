@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditya-git2/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Aditya-git2/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aditya-git2/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-git2/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aditya-git2/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Aditya-git2/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aditya-git2/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Breadth-First Search
 |  |
 | ------- |
