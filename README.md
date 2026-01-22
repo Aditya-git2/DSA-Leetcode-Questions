@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-git2/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aditya-git2/DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Aditya-git2/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Aditya-git2/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-git2/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-git2/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-git2/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aditya-git2/DSA/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
