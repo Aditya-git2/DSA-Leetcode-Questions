@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aditya-git2/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aditya-git2/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aditya-git2/DSA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Aditya-git2/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aditya-git2/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aditya-git2/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aditya-git2/DSA/tree/master/0075-sort-colors) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Aditya-git2/DSA/tree/master/1138-grumpy-bookstore-owner) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Aditya-git2/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
