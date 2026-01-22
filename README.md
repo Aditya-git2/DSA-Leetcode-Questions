@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditya-git2/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-git2/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Aditya-git2/DSA/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditya-git2/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-git2/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Aditya-git2/DSA/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Math
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-git2/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-git2/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aditya-git2/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Aditya-git2/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-git2/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-git2/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Aditya-git2/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditya-git2/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-git2/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-git2/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Aditya-git2/DSA/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aditya-git2/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aditya-git2/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Aditya-git2/DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Aditya-git2/DSA/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
