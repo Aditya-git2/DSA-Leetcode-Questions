@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aditya-git2/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Aditya-git2/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Aditya-git2/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aditya-git2/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aditya-git2/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-git2/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-git2/DSA/tree/master/0189-rotate-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aditya-git2/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-git2/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Aditya-git2/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aditya-git2/DSA/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Aditya-git2/DSA/tree/master/0078-subsets) |
 ## Combinatorics
 |  |
 | ------- |
